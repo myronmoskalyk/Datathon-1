@@ -20,3 +20,15 @@
 2. Drop the variable severity
 3. Perform K-means clustering on the training set (Use K=4 because there are 4 levels of severities)
 4. See if we get similar clustering as the variable severities
+
+
+## Written Report
+
+-Introduction: Explain the questions you aimed to answer with the data and their significance.
+-Data Engineering Process: Describe how you cleaned and prepared the data and specify the datasets used.
+-Analysis: Outline the learning and analysis techniques employed, along with the rationale behind their selection.
+-Findings: Present your discoveries and insights.
+-Conclusion: Summarize what health practitioners can infer from your team’s work.
+-Individual Contributions: Highlight the contributions of each team member throughout the entire process.
+-Code and Presentation: Host your Datathon materials, including notebooks and datasets, on GitHub. Share the GitHub project link in the report for easy access by the TA. Also, utilize Google Presentation to host your presentation and provide the public link in the report.
+
