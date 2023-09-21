@@ -7,6 +7,8 @@
 
 2. If we ignore the label of lung cancer severities, can we cluster the patients with similar features into severities? Can we check this clustering and see if it is similar to the labels?
 
+**Can we explore which explanatory variables to use in each research question?**
+
 ## Plans
 
 ### RQ1
